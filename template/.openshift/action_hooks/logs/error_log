@@ -1,0 +1,9 @@
+[Thu Jun 20 23:18:12 2013] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 20 23:18:12 2013] [error] (13)Permission denied: could not create /var/run/apache2.pid
+[Thu Jun 20 23:18:12 2013] [error] apache2: could not log pid to file /var/run/apache2.pid
+[Thu Jun 20 23:25:01 2013] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 20 23:25:01 2013] [error] (13)Permission denied: could not create /var/run/apache2.pid
+[Thu Jun 20 23:25:01 2013] [error] apache2: could not log pid to file /var/run/apache2.pid
+[Thu Jun 20 23:25:14 2013] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 20 23:25:14 2013] [error] (13)Permission denied: could not create /var/run/apache2.pid
+[Thu Jun 20 23:25:14 2013] [error] apache2: could not log pid to file /var/run/apache2.pid

@@ -1,0 +1,33 @@
+[Thu Jun 20 23:40:01 2013] [error] (2)No such file or directory: Cannot create SSLMutex with file `/home/paiti/openshift-projects/http-example/${APACHE_RUN_DIR}/ssl_mutex'
+Configuration Failed
+[Thu Jun 20 23:41:14 2013] [error] (2)No such file or directory: Cannot create SSLMutex with file `/home/paiti/openshift-projects/http-example/${APACHE_RUN_DIR}/ssl_mutex'
+Configuration Failed
+[Thu Jun 20 23:41:58 2013] [error] (2)No such file or directory: Cannot create SSLMutex with file `/home/paiti/openshift-projects/http-example/${APACHE_RUN_DIR}/ssl_mutex'
+Configuration Failed
+[Thu Jun 20 23:42:19 2013] [error] (2)No such file or directory: Cannot create SSLMutex with file `/home/paiti/openshift-projects/http-example/${APACHE_RUN_DIR}/ssl_mutex'
+Configuration Failed
+[Thu Jun 20 23:47:08 2013] [error] (2)No such file or directory: Cannot create SSLMutex with file `/home/paiti/openshift-projects/http-example/${APACHE_RUN_DIR}/ssl_mutex'
+Configuration Failed
+[Thu Jun 20 23:50:45 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 20 23:50:45 2013] [notice] Digest: done
+[Thu Jun 20 23:50:46 2013] [warn] mod_wsgi: Compiled for Python/2.7.3.
+[Thu Jun 20 23:50:46 2013] [warn] mod_wsgi: Runtime using Python/2.7.4.
+[Thu Jun 20 23:50:46 2013] [notice] Apache/2.2.22 (Ubuntu) DAV/2 PHP/5.4.9-4ubuntu2.1 mod_ssl/2.2.22 OpenSSL/1.0.1c mod_wsgi/3.4 Python/2.7.4 configured -- resuming normal operations
+[Thu Jun 20 23:51:13 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:51:13 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:53:17 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:53:17 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:54:52 2013] [notice] caught SIGTERM, shutting down
+[Thu Jun 20 23:55:21 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Thu Jun 20 23:55:32 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:55:32 2013] [alert] [client 127.0.0.1] /home/paiti/.htaccess: Invalid command 'paiti:{SHA}aN7TBFSrqD0XGGoek4QvdMapSxU=', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Jun 20 23:56:12 2013] [error] [client 127.0.0.1] Attempt to serve directory: /home/paiti/openshift-projects/http-example/html/
+[Thu Jun 20 23:56:13 2013] [error] [client 127.0.0.1] File does not exist: /home/paiti/openshift-projects/http-example/html/favicon.ico
+[Thu Jun 20 23:57:20 2013] [notice] caught SIGTERM, shutting down
+[Thu Jun 20 23:57:27 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 20 23:57:27 2013] [notice] Digest: done
+[Thu Jun 20 23:57:28 2013] [warn] mod_wsgi: Compiled for Python/2.7.3.
+[Thu Jun 20 23:57:28 2013] [warn] mod_wsgi: Runtime using Python/2.7.4.
+[Thu Jun 20 23:57:28 2013] [notice] Apache/2.2.22 (Ubuntu) DAV/2 PHP/5.4.9-4ubuntu2.1 mod_ssl/2.2.22 OpenSSL/1.0.1c mod_wsgi/3.4 Python/2.7.4 configured -- resuming normal operations
+[Thu Jun 20 23:57:35 2013] [error] [client 127.0.0.1] File does not exist: /home/paiti/openshift-projects/http-example/html/favicon.ico
+[Fri Jun 21 00:03:28 2013] [notice] caught SIGTERM, shutting down
